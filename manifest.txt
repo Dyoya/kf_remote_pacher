@@ -1,4 +1,4 @@
-version=10
+version=11
 F|78848|a8dfdcdf61b8e8503b730e9b739beed787ba6299fc197bcfc77327e2bedfd2b3|!KeroroFighterConnector.exe
 F|268|86856c0982038402f985e47638a4e6a7c24ef239dad1da7cfc2d46cf6f83f580|GameOption.cfg
 F|126976|91cf9d871eea8ab920deec8dd33e14e4e977f777b93510a68c06c2339e65f090|KeroroFighter.exe
